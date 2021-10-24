@@ -6,3 +6,4 @@ newfile for app wip now
 i am adding a new file
 new
 newfile
+adding newline
